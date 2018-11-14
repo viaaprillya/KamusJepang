@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kamus Indonesia-Jepang</string>
+    <string name="serach">Search</string>
+    <string name="cari">Cari</string>
+    <string name="japan">Indonesia - Jepang </string>
+    <string name="title_activity_splashscreen">splashscreen</string>
+    <string name="injp">Indonesia-Jepang</string>
+    <string name="jpin">Jepang-Indonesia</string>
+    <string name="title_activity_pilih">pilih</string>
+    <string name="title_activity_pilihan__bahasa">Pilihan_Bahasa</string>
+</resources>
